@@ -18,14 +18,14 @@ Cada integrante teve uma visão do padrão a ser implementado, portanto, houve u
 | :---- | :---- | :---- | :---- |
 | 01 | [Gabriel Flores](https://github.com/Gabrielfcoelho), [Ígor Veras Daniel](https://github.com/igorvdaniel) e [Matheus de Alcântara](https://github.com/matheusdealcantara) | 22/10/2025 | [https://www.youtube.com/watch?v=p1Aoxzym0Dk](https://youtu.be/p1Aoxzym0Dk) |
 
-<iframe width="768" height="640" src="https://miro.com/app/live-embed/uXjVJ1he4VE=/?focusWidget=3458764632024456495&embedMode=view_only_without_ui&embedId=88483689390" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 
 ## Modelagem
 
 A seguir, é possível visualizar a modelagem gerada:
 <p align="center">Modelagem do GoF Abstract Factory</p>
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVJ1g_CSw=/?embedMode=view_only_without_ui&moveToViewport=-802,72,2535,1245&embedId=490792907473" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="640" src="https://miro.com/app/live-embed/uXjVJ1he4VE=/?focusWidget=3458764632024456495&embedMode=view_only_without_ui&embedId=88483689390" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 <p align = "center">Autoria de <a href="https://github.com/Gabrielfcoelho">Gabriel Flores</a>, <a href="https://github.com/igorvdaniel">Ígor Veras Daniel</a> e <a href="https://github.com/matheusdealcantara">Matheus de Alcântara</a> </p>
 
