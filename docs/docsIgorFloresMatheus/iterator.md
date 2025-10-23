@@ -5,10 +5,12 @@
 Os **padrões de projeto comportamentais** têm como objetivo definir maneiras eficientes de comunicação entre objetos e delegar responsabilidades, reduzindo o acoplamento entre eles e favorecendo a flexibilidade do sistema (GAMMA et al., 1995).
 
 Dentre os padrões de projeto, o ***Iterator*** se destaca por encapsular o modo de acesso e travessia dos elementos de uma coleção (ou agregado), independentemente de sua representação interna (REFACTORING GURU, 2023). Essa característica torna o **GoF *Iterator*** uma solução ideal para sistemas que exigem uma forma uniforme de percorrer estruturas de dados complexas sem expor sua implementação (SOURCEMAKING, 2023).
+
 ## Metodologia
 
-A construção do **GoF *Iterator*** foi primeiramente construída a partir dos conhecimentos adquiridos durante as aulas ministradas pela professora Milene Serrano e seus slides **GoF Comportamentais(2025)**, além da análise da literatura do livro  **Gamma et al. (2000).**
-Cada integrante teve uma visão do padrão a ser implementado, por tanto houve uma reunião informal, em sala de aula, onde foi-se decidido cada um pensar em uma ideia e apresentar em reunião, ao se aprofundar algumas divergências se tornaram um concesso comum por mensagens, assim ao se realizar a reunião tudo foi feito de maneira sucinta, já tendo uma direção a ser seguida, apesar das divergências em como implementar de fato e em como realizar a modelagem durante o processo, tudo ocorreu de forma limpa e rápida.
+A construção do **GoF *Iterator*** **baseou-se** primeiramente nos conhecimentos adquiridos durante as aulas ministradas pela professora Milene Serrano e seus slides **GoF Comportamentais(2025)**, além da análise da literatura do livro **Gamma et al. (2000).**
+
+Cada integrante teve uma visão do padrão a ser implementado, portanto, houve uma reunião informal, em sala de aula, onde se decidiu que cada um pensasse em uma ideia e a apresentasse em reunião. Ao se aprofundar no assunto, algumas divergências deram lugar a um consenso comum por mensagens. Assim, ao se realizar a reunião, tudo foi feito de maneira sucinta, já tendo uma direção a ser seguida. Apesar das divergências em como implementar de fato e em como realizar a modelagem durante o processo, tudo ocorreu de forma limpa e rápida.
 
  A gravação da reunião está a seguir: 
 
@@ -174,7 +176,9 @@ if __name__ == "__main__":
 ## Referências Bibliográficas
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; et al. **Padrões de projetos: soluções reutilizáveis de software orientados a objetos**. Porto Alegre: Bookman, 2000\. *E-book.* p.99. ISBN 9788577800469\. Disponível em: [https://app.minhabiblioteca.com.br/reader/books/9788577800469/](https://app.minhabiblioteca.com.br/reader/books/9788577800469/). Acesso em: 20 out. 2025\.  
-SERRANO, Milene. **AULA \- GOFS COMPORTAMENTAIS**. 2025\. Disponível em: [https://aprender3.unb.br/pluginfile.php/3178398/mod_page/content/1/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GoFs%20Estruturais%20-%20Profa.%20Milene.pdf](https://aprender3.unb.br/pluginfile.php/3178398/mod_page/content/1/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GoFs%20Estruturais%20-%20Profa.%20Milene.pdf). Acesso em: 22 out. 2025,   
+SERRANO, Milene. **AULA \- GOFS COMPORTAMENTAIS**. 2025\. Disponível em: [https://aprender3.unb.br/pluginfile.php/3178398/mod_page/content/1/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GoFs%20Estruturais%20-%20Profa.%20Milene.pdf](https://aprender3.unb.br/pluginfile.php/3178398/mod_page/content/1/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GoFs%20Estruturais%20-%20Profa.%20Milene.pdf). Acesso em: 22 out. 2025,
+SOURCEMAKING. *Builder Design Pattern*. Disponível em: [https://sourcemaking.com/design\_patterns/builder](https://sourcemaking.com/design_patterns/builder). Acesso em: 20 out. 2025\.  
+
   
 
 ## Tabela de Versionamento
@@ -182,3 +186,4 @@ SERRANO, Milene. **AULA \- GOFS COMPORTAMENTAIS**. 2025\. Disponível em: [https
 | Versão | Data       | Descrição                                        | Autor(es)           | Revisor(es)         | Comentário do revisor | Data da revisão |
 |--------|------------|--------------------------------------------------|---------------------|---------------------|----------------------|-----------|
 | `1.0` | 22/10/2025  | Criação da Modelagem e código do padrão de projeto Iterator aplicado a classe comentario | [Gabriel Flores](https://github.com/Gabrielfcoelho), [Ígor Veras Daniel](https://github.com/igorvdaniel) e [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - | - |
+| `1.0` | 22/10/2025  | Correção de erros de escrita |  [Ígor Veras Daniel](https://github.com/igorvdaniel) | - | - | - |
