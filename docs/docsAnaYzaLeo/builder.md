@@ -25,11 +25,18 @@ Como consta na fonte Refactoring Guru(2023), o Builder é composto por:
 | 01 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) e [Yzabella Miranda](https://github.com/redjsun) | 17/10/2025 | [https://unbbr.sharepoint.com/:v:/s/arquitetos/EWNTWmyA3oFHnCVxBo3IRUYB34eILTDJXEMufMTqOOutqA?e=MjzNUR](https://unbbr.sharepoint.com/:v:/s/arquitetos/EWNTWmyA3oFHnCVxBo3IRUYB34eILTDJXEMufMTqOOutqA?e=MjzNUR) |
 | 02 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) e [Yzabella Miranda](https://github.com/redjsun) | 17/10/2025 | [https://unbbr.sharepoint.com/:v:/s/arquitetos/ESxJosJC2X9CmHcfShrhFNIBihOw\_bAj0QcqqFnCNWfJDA?e=EMDLLb](https://unbbr.sharepoint.com/:v:/s/arquitetos/ESxJosJC2X9CmHcfShrhFNIBihOw_bAj0QcqqFnCNWfJDA?e=EMDLLb) |
 | 03 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) e [Yzabella Miranda](https://github.com/redjsun) | 17/10/2025 | [https://unbbr.sharepoint.com/:v:/s/arquitetos/Eepo1sfqTUxFpFRTWQASkggBPx-dIh5HNM4s\_Gd7whT4pA?e=QOZj1u](https://unbbr.sharepoint.com/:v:/s/arquitetos/Eepo1sfqTUxFpFRTWQASkggBPx-dIh5HNM4s_Gd7whT4pA?e=QOZj1u) |
+| 04 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) | 22/10/2025 | [https://unbbr.sharepoint.com/:v:/s/arquitetos/EZyTgTos3wJAtuLDuh32cnIBbDzuDTphBIYuLNh50QvhwA?e=m6eZ6B](https://unbbr.sharepoint.com/:v:/s/arquitetos/EZyTgTos3wJAtuLDuh32cnIBbDzuDTphBIYuLNh50QvhwA?e=m6eZ6B) |
+
+<p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> </p>
 
 ## Modelagem
 
 A seguir, é possível visualizar a foto da modelagem gerada:
 <p align="center">Imagem  1 - Modelagem do GoF Builder</p>
+
+<img src="assets/diagrama_builder.png" align="center" width="600" height="400" loading="lazy">
+
+<p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a>, <a href="https://github.com/oyLeonardo">Leonardo Barcelos</a> e <a href="https://github.com/redjsun">Yzabella Miranda</a> </p>
 
 (adiciono as fotos)
 
@@ -49,4 +56,5 @@ SOURCEMAKING. *Builder Design Pattern*. Disponível em: [https://sourcemaking.co
 | Versão | Data       | Descrição                                        | Autor(es)           | Revisor(es)         | Comentário do revisor | Data da revisão |
 |--------|------------|--------------------------------------------------|---------------------|---------------------|----------------------|-----------|
 | `1.0` | 17/10/2025  | Criação da Modelagem e código do padrão de projeto Builder aplicado as classes publicação e comentário | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) e [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - |
-| `1.0` | 17/10/2025  | Criação da estrutural inicial do documento, com introdução, metodologia utilizada, link para vídeos e referência bibliográfica | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - |
+| `1.1` | 17/10/2025  | Criação da estrutural inicial do documento, com introdução, metodologia utilizada, link para vídeos e referência bibliográfica | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - |
+| `1.2` | 22/10/2025  | Adição da foto do diagrama final e do link de outra reunião realiada no dia 22/10/2025 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - |
