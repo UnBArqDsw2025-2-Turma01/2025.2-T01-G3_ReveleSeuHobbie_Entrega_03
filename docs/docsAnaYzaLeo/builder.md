@@ -25,19 +25,25 @@ Como consta na fonte Refactoring Guru(2023), o Builder é composto por:
 | 01 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) e [Yzabella Miranda](https://github.com/redjsun) | 17/10/2025 | [https://unbbr.sharepoint.com/:v:/s/arquitetos/EWNTWmyA3oFHnCVxBo3IRUYB34eILTDJXEMufMTqOOutqA?e=MjzNUR](https://unbbr.sharepoint.com/:v:/s/arquitetos/EWNTWmyA3oFHnCVxBo3IRUYB34eILTDJXEMufMTqOOutqA?e=MjzNUR) |
 | 02 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) e [Yzabella Miranda](https://github.com/redjsun) | 17/10/2025 | [https://unbbr.sharepoint.com/:v:/s/arquitetos/ESxJosJC2X9CmHcfShrhFNIBihOw\_bAj0QcqqFnCNWfJDA?e=EMDLLb](https://unbbr.sharepoint.com/:v:/s/arquitetos/ESxJosJC2X9CmHcfShrhFNIBihOw_bAj0QcqqFnCNWfJDA?e=EMDLLb) |
 | 03 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) e [Yzabella Miranda](https://github.com/redjsun) | 17/10/2025 | [https://unbbr.sharepoint.com/:v:/s/arquitetos/Eepo1sfqTUxFpFRTWQASkggBPx-dIh5HNM4s\_Gd7whT4pA?e=QOZj1u](https://unbbr.sharepoint.com/:v:/s/arquitetos/Eepo1sfqTUxFpFRTWQASkggBPx-dIh5HNM4s_Gd7whT4pA?e=QOZj1u) |
+<<<<<<< HEAD
 | 04 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) | 22/10/2025 | [https://unbbr.sharepoint.com/:v:/s/arquitetos/EZyTgTos3wJAtuLDuh32cnIBbDzuDTphBIYuLNh50QvhwA?e=m6eZ6B](https://unbbr.sharepoint.com/:v:/s/arquitetos/EZyTgTos3wJAtuLDuh32cnIBbDzuDTphBIYuLNh50QvhwA?e=m6eZ6B) |
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> </p>
+=======
+>>>>>>> 191a7eb1dc0c876400c5e36feecef8d3a3c16fb9
 
 ## Modelagem
 
 A seguir, é possível visualizar a foto da modelagem gerada:
 <p align="center">Imagem  1 - Modelagem do GoF Builder</p>
 
+<<<<<<< HEAD
 <img src="assets/diagrama_builder.png" align="center" width="600" height="400" loading="lazy">
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a>, <a href="https://github.com/oyLeonardo">Leonardo Barcelos</a> e <a href="https://github.com/redjsun">Yzabella Miranda</a> </p>
 
+=======
+>>>>>>> 191a7eb1dc0c876400c5e36feecef8d3a3c16fb9
 (adiciono as fotos)
 
 ## Implementação
