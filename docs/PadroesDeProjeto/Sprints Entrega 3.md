@@ -12,36 +12,39 @@ O desenvolvimento foi estruturado em quatro sprints principais, abrangendo o per
 
 Cada sprint foi cuidadosamente planejada para distribuir as responsabilidades entre os membros da equipe, garantindo a entrega de artefatos de qualidade dentro dos prazos estabelecidos. Além dos padrões principais, foi dedicada uma sprint específica para artefatos extras, incluindo documentação de apoio, cronogramas e validações.
 
-A metodologia adotada segue os princípios ágeis, com entregas incrementais e colaboração contínua entre os membros da equipe, baseadas no cronograma geral da Entrega 3 desenvolvido pela profa. Milene Serrano.
+A metodologia adotada segue os princípios ágeis, com entregas incrementais e colaboração contínua entre os membros da equipe, baseadas no cronograma geral da Entrega 3 desenvolvido pela profa. Milene Serrano. Abaixo é possível visualizar a reunião para o planejamento das sprints:
 
-## Sprint 1 \- GOFs Criacionais: 06/10 \- 12/10
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IsUFeMS1wUU?si=kczXBtsTIHxaBjmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Cronograma das Sprints
+
+### Sprint 1 \- GOFs Criacionais: 06/10 \- 12/10
+
+| Tarefa                                             | Responsável(is)                                               | Prazo                    |
+| :------------------------------------------------- | :------------------------------------------------------------ | :----------------------- |
+| Desenvolvimento do GOF Criacional Builder          | Ana Luiza, Yzabella Miranda e Leonardo Barcelos               | 09/10/2025 \- 12/10/2025 |
+| Desenvolvimento do GOF Criacional Abstract Factory | Matheus de Alcântara, Gabriel Flores e Ígor Veras             | 09/10/2025 \- 12/10/2025 |
+| Desenvolvimento do GOF Criacional Factory Method   | Paulo Henrique, Natan Almeida, Ruan Sobreira e Arthur Augusto | 09/10/2025 \- 12/10/2025 |
+| Desenvolvimento do GOF Criacional Prototype        | Ana Luiza, Yzabella Miranda e Leonardo Barcelos               | 09/10/2025 \- 12/10/2025 |
+
+### Sprint 2 \- GOFs Estruturais: 13/10 \- 19/10
 
 | Tarefa                                      | Responsável(is)                                               | Prazo                    |
 | :------------------------------------------ | :------------------------------------------------------------ | :----------------------- |
-| Desenvolvimento do GOF Criacional escolhido | Ana Luiza, Yzabella Miranda e Leonardo Barcelos               | 09/10/2025 \- 12/10/2025 |
-| Desenvolvimento do GOF Criacional escolhido | Matheus de Alcântara, Gabriel Flores e Ígor Veras             | 09/10/2025 \- 12/10/2025 |
-| Desenvolvimento do GOF Criacional Singleton | Paulo Henrique, Natan Almeida, Ruan Sobreira e Arthur Augusto | 09/10/2025 \- 12/10/2025 |
-| Desenvolvimento do GOF Criacional escolhido | Ana Luiza, Yzabella Miranda e Leonardo Barcelos               | 09/10/2025 \- 12/10/2025 |
-
-## Sprint 2 \- GOFs Estruturais: 13/10 \- 19/10
-
-| Tarefa                                      | Responsável(is)                                               | Prazo                    |
-| :------------------------------------------ | :------------------------------------------------------------ | :----------------------- |
-| Desenvolvimento do GOF Estrutural escolhido | Ana Luiza, Yzabella Miranda e Leonardo Barcelos               | 13/10/2025 \- 19/10/2025 |
-| Desenvolvimento do GOF Estrutural escolhido | Matheus de Alcântara, Gabriel Flores e Ígor Veras             | 13/10/2025 \- 19/10/2025 |
+| Desenvolvimento do GOF Estrutural Decorator | Ana Luiza, Yzabella Miranda e Leonardo Barcelos               | 13/10/2025 \- 19/10/2025 |
+| Desenvolvimento do GOF Estrutural Adapter   | Matheus de Alcântara, Gabriel Flores e Ígor Veras             | 13/10/2025 \- 19/10/2025 |
 | Desenvolvimento do GOF Estrutural Facade    | Paulo Henrique, Natan Almeida, Ruan Sobreira e Arthur Augusto | 13/10/2025 \- 19/10/2025 |
-| Desenvolvimento do GOF Estrutural escolhido | Matheus de Alcântara, Gabriel Flores e Ígor Veras             | 13/10/2025 \- 19/10/2025 |
 
-## Sprint 3 \- GOFs Comportamentais: 20/10 \- 24/10
+### Sprint 3 \- GOFs Comportamentais: 20/10 \- 24/10
 
-| Tarefa                                          | Responsável(is)                                               | Prazo                    |
-| :---------------------------------------------- | :------------------------------------------------------------ | :----------------------- |
-| Desenvolvimento do GOF Comportamental escolhido | Ana Luiza, Yzabella Miranda e Leonardo Barcelos               | 20/10/2025 \- 24/10/2025 |
-| Desenvolvimento do GOF Comportamental escolhido | Matheus de Alcântara, Gabriel Flores e Ígor Veras             | 20/10/2025 \- 24/10/2025 |
-| Desenvolvimento do GOF Comportamental Strategy  | Paulo Henrique, Natan Almeida, Ruan Sobreira e Arthur Augusto | 20/10/2025 \- 24/10/2025 |
-| Desenvolvimento do GOF Comportamental Observer  | Paulo Henrique, Natan Almeida, Ruan Sobreira e Arthur Augusto | 20/10/2025 \- 24/10/2025 |
+| Tarefa                                                | Responsável(is)                                               | Prazo                    |
+| :---------------------------------------------------- | :------------------------------------------------------------ | :----------------------- |
+| Desenvolvimento do GOF Comportamental Template Method | Ana Luiza, Yzabella Miranda e Leonardo Barcelos               | 20/10/2025 \- 24/10/2025 |
+| Desenvolvimento do GOF Comportamental Iterator        | Matheus de Alcântara, Gabriel Flores e Ígor Veras             | 20/10/2025 \- 24/10/2025 |
+| Desenvolvimento do GOF Comportamental Strategy        | Paulo Henrique, Natan Almeida, Ruan Sobreira e Arthur Augusto | 20/10/2025 \- 24/10/2025 |
+| Desenvolvimento do GOF Comportamental Observer        | Paulo Henrique, Natan Almeida, Ruan Sobreira e Arthur Augusto | 20/10/2025 \- 24/10/2025 |
 
-## Sprint 4 \- Artefatos Extras: 06/10 \- 24/10
+### Sprint 4 \- Artefatos Extras: 06/10 \- 24/10
 
 | Tarefa                           | Responsável(is)                                | Prazo                    |
 | :------------------------------- | :--------------------------------------------- | :----------------------- |
@@ -58,6 +61,7 @@ SERRANO, Milene. 3 T01 Padrões [imagem]. Disponível em: <https://aprender3.unb
 
 ## Tabela de Versionamento
 
-| Versão | Data       | Descrição                        | Autor(es)                                                                                                         | Revisor(es)                                         | Comentário do revisor | Data da revisão |
-| ------ | ---------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------- | --------------- |
-| `1.0`  | 06/10/2025 | Criação das sprints da entrega 3 | [Gabriel Flores](https://github.com/Gabrielfcoelho) [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Ígor Veras Daniel](https://github.com/igorvdaniel) | -                     | -               |
+| Versão | Data       | Descrição                                                                                | Autor(es)                                                                                                         | Revisor(es)                                         | Comentário do revisor | Data da revisão |
+| ------ | ---------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------- | --------------- |
+| `1.0`  | 06/10/2025 | Criação das sprints da entrega 3                                                         | [Gabriel Flores](https://github.com/Gabrielfcoelho) [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Ígor Veras Daniel](https://github.com/igorvdaniel) | -                     | -               |
+| `1.1`  | 23/10/2025 | Adiciona o vídeo do desenvolvimento do planejamento e as escolhas dos Padrões de Projeto | [Gabriel Flores](https://github.com/Gabrielfcoelho) [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Ígor Veras Daniel](https://github.com/igorvdaniel) | -                     | -               |
