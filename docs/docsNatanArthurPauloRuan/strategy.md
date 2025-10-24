@@ -10,7 +10,7 @@ Para o desenvolvimento do trabalho, foram realizadas as seguintes etapas:
 
 1. Estudo do padrão de projeto Factory Method com base em materiais de referência mostrado em sala de aula pela professora [1]
 2. Para a modelagem, inicialmente foi feita uma chamada de vídeo com os integrantes responsáveis por este artefato, onde alinhamos as ideias e discutimos o planejamento sobre o que implementariamos dado o contexto do projeto
-3. Foram feitos os diagramas em conjunto utilizando o diagrama UML, pela ferramentado do [drawio](https://app.diagrams.net/#G1pcJVnAAakuv8rYM0g8ZvuhaQBeCKSzbq#%7B%22pageId%22%3A%22RUmJMx5qTw6CUYCq72ed%22%7D)
+3. Foram feitos os diagramas em conjunto utilizando o diagrama UML, pela ferramenta [drawio](https://app.diagrams.net/#G1pcJVnAAakuv8rYM0g8ZvuhaQBeCKSzbq#%7B%22pageId%22%3A%22RUmJMx5qTw6CUYCq72ed%22%7D)
 4. Elaboração deste relatório técnico para documentar a aplicação do padrão.
 
 O desenvolvimento aconteceu em uma video chamada no teams.
