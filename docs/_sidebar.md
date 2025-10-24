@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Projetos](/docs/Projeto/Projeto.md)
+- [Home](/.)
+- [Projetos](./Projeto/Projeto.md)
 
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md)
@@ -9,6 +9,7 @@
       - [3.1.1. Builder](/docsAnaYzaLeo/builder.md)
     - [3.2. Padrões de Projeto GoFs Estruturais](/PadroesDeProjeto/3.2.GoFsEstruturais.md)
       - [3.2.1. Adapter](/docsIgorFloresMatheus/Adapter.md)
+      - [3.2.2. Decorator](/docsAnaYzaLeo/decorator.md)
     - [3.3. Padrões de Projeto GoFs Comportamentais](/PadroesDeProjeto/3.3.GoFsComportamentais.md)
     - [3.4. Participações - Padrões de Projeto](/docs/participacoes/participacoes.md)
     - [3.5. Iniciativas Extras - Padrões de Projeto](/PadroesDeProjeto/3.5.IniciativasExtras.md)
