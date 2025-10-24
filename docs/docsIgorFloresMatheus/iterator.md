@@ -185,5 +185,5 @@ SOURCEMAKING. *Builder Design Pattern*. Disponível em: [https://sourcemaking.co
 
 | Versão | Data       | Descrição                                        | Autor(es)           | Revisor(es)         | Comentário do revisor | Data da revisão |
 |--------|------------|--------------------------------------------------|---------------------|---------------------|----------------------|-----------|
-| `1.0` | 22/10/2025  | Criação da Modelagem e código do padrão de projeto Iterator aplicado a classe comentario | [Gabriel Flores](https://github.com/Gabrielfcoelho), [Ígor Veras Daniel](https://github.com/igorvdaniel) e [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - | - |
-| `1.1` | 22/10/2025  | Correção de erros de escrita |  [Ígor Veras Daniel](https://github.com/igorvdaniel) | - | - | - |
+| `1.0` | 22/10/2025  | Criação da Modelagem e código do padrão de projeto Iterator aplicado a classe comentario | [Gabriel Flores](https://github.com/Gabrielfcoelho), [Ígor Veras Daniel](https://github.com/igorvdaniel) e [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Leonardo Barcellos](https://github.com/oyLeonardo) | Tudo certo. | 24/10/2025 |
+| `1.1` | 22/10/2025  | Correção de erros de escrita |  [Ígor Veras Daniel](https://github.com/igorvdaniel) | [Leonardo Barcellos](https://github.com/oyLeonardo) | Tudo certo. | 24/10/2025 |
