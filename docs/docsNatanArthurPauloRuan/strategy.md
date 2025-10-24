@@ -108,4 +108,4 @@ SERRANE, milene. AULA - GOFS COMPORTAMENTAIS. Disponível em: <[https://aprender
 
 | Versão | Data       | Descrição                                        | Autor(es)           | Revisor(es)         | Comentário do revisor | Data da revisão |
 |--------|------------|--------------------------------------------------|---------------------|---------------------|----------------------|-----------|
-| `1.0` | 24/10/2025  | Criação da Modelagem e código do padrão de projeto observer | [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho), [Arthur Augusto Rezende da Paixão](https://github.com/arthur-augusto), [Paulo Henrique L. Dantas](https://github.com/Nanashii76) e [Natan Almeida](https://github.com/natanalmeida03) | - | - | - |
+| `1.0` | 24/10/2025  | Criação da Modelagem e código do padrão de projeto strategy | [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho), [Arthur Augusto Rezende da Paixão](https://github.com/arthur-augusto), [Paulo Henrique L. Dantas](https://github.com/Nanashii76) e [Natan Almeida](https://github.com/natanalmeida03) | - | - | - |
