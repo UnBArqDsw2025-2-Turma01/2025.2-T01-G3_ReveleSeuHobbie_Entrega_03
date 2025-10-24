@@ -100,4 +100,3 @@ Autor: [Leonardo Barcellos](https://github.com/oyLeonardo)
 
 ---
 
-Quer que eu gere essa **Ata de Reunião 07** como arquivo `.md` (Markdown) ou `.pdf` para download?
