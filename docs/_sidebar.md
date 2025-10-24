@@ -13,5 +13,6 @@
       - [3.2.2. Facade](/docsNatanArthurPauloRuan/facade.md)
     - [3.3. Padrões de Projeto GoFs Comportamentais](/PadroesDeProjeto/3.3.GoFsComportamentais.md)
       - [3.3.1 Observer](/docsNatanArthurPauloRuan/observer.md)
+      - [3.3.2 Strategy](/docsNatanArthurPauloRuan/strategy.md)
     - [3.4. Participações - Padrões de Projeto](/docs/participacoes/participacoes.md)
     - [3.5. Iniciativas Extras - Padrões de Projeto](/PadroesDeProjeto/3.5.IniciativasExtras.md)
