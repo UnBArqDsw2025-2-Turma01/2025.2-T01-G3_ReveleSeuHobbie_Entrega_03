@@ -13,6 +13,6 @@
     - [3.3. Padrões de Projeto GoFs Comportamentais](/PadroesDeProjeto/3.3.GoFsComportamentais.md)
     - [3.4. Participações - Padrões de Projeto](/docs/participacoes/participacoes.md)
     - [3.5. Iniciativas Extras - Padrões de Projeto](/PadroesDeProjeto/3.5.IniciativasExtras.md)
-      -[3.5.1. Cronograma](/docs/PadroesDeProjeto/planejamento/3.5.1.cronograma.md)
+      - [3.5.1. Cronograma](/docs/PadroesDeProjeto/planejamento/3.5.1.cronograma.md)
         - [3.5.1.1 Cronograma Planejado](/docs/PadroesDeProjeto/planejamento/3.5.1.1CronogramaPlanejado.md)
         - [3.5.1.2 Cronograma Executado](/docs/PadroesDeProjeto/planejamento/3.5.1.1CronogramaPlanejado.md)
