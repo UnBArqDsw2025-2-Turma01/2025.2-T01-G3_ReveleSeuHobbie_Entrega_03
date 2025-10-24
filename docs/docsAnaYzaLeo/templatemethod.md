@@ -46,7 +46,7 @@ A seguir, é possível visualizar a foto da modelagem gerada:
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a>, <a href="https://github.com/oyLeonardo">Leonardo Barcelos</a> e <a href="https://github.com/redjsun">Yzabella Miranda</a> </p>
 
 ## Implementação
-```bash
+```python
 from abc import ABC, abstractmethod
 class Vincular(ABC):
 	
