@@ -37,7 +37,7 @@ Como consta na fonte Refactoring Guru(2023), o Builder é composto por:
 A seguir, é possível visualizar a foto da modelagem gerada:
 <p align="center">Imagem  1 - Modelagem do GoF Builder</p>
 
-<img src="assets/diagrama_builder.png" align="center" width="600" height="400" loading="lazy">
+<img src="../assets/diagrama_builder.png" align="center" width="600" height="400" loading="lazy">
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a>, <a href="https://github.com/oyLeonardo">Leonardo Barcelos</a> e <a href="https://github.com/redjsun">Yzabella Miranda</a> </p>
 
@@ -47,7 +47,7 @@ A seguir, é possível visualizar a foto da modelagem gerada:
 
 É possível visualizar o código que foi gerado abaixo:
 
-``` powershell
+``` bash
 from abc import ABC, abstractmethod
  
 class Imagem:
@@ -128,15 +128,15 @@ print("Imagem:", publicacao.imagem.arquivo)
 Para testar o código, garanta qeu você basta seguir os passos a passo:
 
 
-``` powershell
+``` bash
 git clone https://github.com/UnBArqDsw2025-2-Turma01/2025.2-T01-G3_ReveleSeuHobbie_Entrega_03/actions/runs/18767157088
 ```
 
-``` powershell
+``` bash
 cd yal
 ```
 
-``` powershell
+``` bash
 python builder.py
 ```
 
