@@ -51,7 +51,7 @@ Autor: [Leonardo Barcellos](https://github.com/oyLeonardo)
 
 | N° | Descrição                                                                                                             | Tipo       |
 | -- | --------------------------------------------------------------------------------------------------------------------- | ---------- |
-| 1  | PLanejamento da organização e divisão das tarefas para a 3ª entrega do projeto.                                     | Ação       |
+| 1  | Planejamento da organização e divisão das tarefas para a 3ª entrega do projeto.                                     | Ação       |
 
 Autor: [Leonardo Barcellos](https://github.com/oyLeonardo)
 
