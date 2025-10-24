@@ -18,7 +18,6 @@
       - [3.3.2. Iterator](/docsIgorFloresMatheus/iterator.md)
       - [3.3.3 Strategy](/docsNatanArthurPauloRuan/strategy.md)
     - [3.4. Participações - Padrões de Projeto](/participacoes/participacoes.md)
-
     - [3.5. Iniciativas Extras - Padrões de Projeto](/PadroesDeProjeto/3.5.IniciativasExtras.md)
       - [3.5.1. Cronograma](/PadroesDeProjeto/planejamento/3.5.1.cronograma.md)
         - [3.5.1.1 Cronograma Planejado](/PadroesDeProjeto/planejamento/3.5.1.1CronogramaPlanejado.md)
