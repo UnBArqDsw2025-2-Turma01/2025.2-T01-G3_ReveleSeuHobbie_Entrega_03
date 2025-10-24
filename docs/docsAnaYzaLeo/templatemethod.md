@@ -104,4 +104,4 @@ SOURCEMAKING. *Template Design Pattern*. Disponível em: [https://refactoring.gu
 
 | Versão | Data       | Descrição                                        | Autor(es)           | Revisor(es)         | Comentário do revisor | Data da revisão |
 |--------|------------|--------------------------------------------------|---------------------|---------------------|----------------------|-----------|
-| `1.0` | 23/10/2025  | Criação da estrutural inicial do documento, com introdução, metodologia utilizada, link para vídeos e referência bibliográfica | [Leonardo Barcellos](https://github.com/oyLeonardo)  | | - | - |
+| `1.0` | 23/10/2025  | Criação da estrutura inicial do documento, com introdução, metodologia utilizada, link para vídeos e referência bibliográfica | [Leonardo Barcellos](https://github.com/oyLeonardo)  | | - | - |
