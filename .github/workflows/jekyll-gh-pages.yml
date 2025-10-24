@@ -1,3 +1,4 @@
+# ...existing code...
 name: Deploy Docsify to GitHub Pages
 
 on:
@@ -31,7 +32,11 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: './docs'
+          artifact_name: 'docs-artifact'
       
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: 'docs-artifact'
+# ...existing code...
