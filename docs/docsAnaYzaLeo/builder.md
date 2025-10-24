@@ -45,7 +45,106 @@ A seguir, é possível visualizar a foto da modelagem gerada:
 
 ## Implementação
 
-Colocar a implementação
+É possível visualizar o código que foi gerado abaixo:
+
+``` powershell
+from abc import ABC, abstractmethod
+ 
+class Imagem:
+    def __init__(self, arquivo=None):
+        self.arquivo = arquivo
+ 
+class Conteudo:
+    def __init__(self, texto=None):
+        self.texto = texto
+ 
+class Comentario:
+    def __init__(self, texto=None, autor=None):
+        self.texto = texto
+        self.autor = autor
+ 
+class Publicacao:
+    def __init__(self, imagem=None, texto=None, autor=None):
+        self.imagem = imagem
+        self.texto = texto
+        self.autor = autor
+ 
+class Construtor(ABC):
+    @abstractmethod
+    def reiniciar(self): pass
+    @abstractmethod
+    def criarTexto(self, texto): pass
+    @abstractmethod
+    def criarAutor(self, autor): pass
+    @abstractmethod
+    def criarImagem(self, arquivo): pass
+    @abstractmethod
+    def getResultado(self): pass
+ 
+class ConstrutorPublicacao(Construtor):
+    def reiniciar(self):
+        self.publicacao = Publicacao()
+        print("[ConstrutorPublicacao] Reiniciando publicação.")
+ 
+    def criarTexto(self, texto):
+        print(f"[ConstrutorPublicacao] Adicionando texto: {texto}")
+        self.publicacao.texto = texto
+ 
+    def criarAutor(self, autor):
+        print(f"[ConstrutorPublicacao] Definindo autor: {autor}")
+        self.publicacao.autor = autor
+ 
+    def criarImagem(self, arquivo):
+        print(f"[ConstrutorPublicacao] Inserindo imagem: {arquivo}")
+        self.publicacao.imagem = Imagem(arquivo=arquivo)
+ 
+    def getResultado(self):
+        return self.publicacao
+ 
+class Diretor:
+    def criar_publicacao(self, builder, texto, autor, arquivo_imagem):
+        builder.reiniciar()
+        builder.criarTexto(texto)
+        builder.criarAutor(autor)
+        builder.criarImagem(arquivo_imagem)
+        return builder.getResultado()
+ 
+builder = ConstrutorPublicacao()
+diretor = Diretor()
+ 
+publicacao = diretor.criar_publicacao(
+    builder,
+    texto="Gosto de jogar Bloons TD6",
+    autor="User1",
+    arquivo_imagem="foto1.jpg"
+)
+ 
+print("Autor:", publicacao.autor)
+print("Texto:", publicacao.texto)
+print("Imagem:", publicacao.imagem.arquivo)
+ 
+```
+
+Para testar o código, garanta qeu você basta seguir os passos a passo:
+
+
+``` powershell
+git clone https://github.com/UnBArqDsw2025-2-Turma01/2025.2-T01-G3_ReveleSeuHobbie_Entrega_03/actions/runs/18767157088
+```
+
+``` powershell
+cd yal
+```
+
+``` powershell
+python builder.py
+```
+
+## Vídeo Testando
+
+Segue o vídeo dos integrantes testando o código gerado:
+
+<iframe src="https://unbbr.sharepoint.com/sites/arquitetos/_layouts/15/embed.aspx?UniqueId=fd8ccbe9-71a9-48fe-9c03-8dd10ee58fc3&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="ultima reuniao leonayza-20251023_222643-Gravação de Reunião.mp4"></iframe>
 
 ## Referências Bibliográficas
 
@@ -60,4 +159,5 @@ SOURCEMAKING. *Builder Design Pattern*. Disponível em: [https://sourcemaking.co
 |--------|------------|--------------------------------------------------|---------------------|---------------------|----------------------|-----------|
 | `1.0` | 17/10/2025  | Criação da Modelagem e código do padrão de projeto Builder aplicado as classes publicação e comentário | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC), [Leonardo Barcelos](https://github.com/oyLeonardo) e [Yzabella Miranda](https://github.com/redjsun) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - |
 | `1.1` | 17/10/2025  | Criação da estrutural inicial do documento, com introdução, metodologia utilizada, link para vídeos e referência bibliográfica | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - |
-| `1.2` | 22/10/2025  | Adição da foto do diagrama final e do link de outra reunião realiada no dia 22/10/2025 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - |
+| `1.2` | 22/10/2025  | Adição da foto do diagrama final e do link de outra reunião realiada no dia 22/10/2025 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) | Não foi encontrado nenhum erro | 23/10/2025 |
+| `1.3` | 23/10/2025 | Adicionando os códigos e vídeos | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Yzabella Mirando](https://github.com/matheusdealcantara) | Tudo correto, aprovado | 23/10/2025 |
