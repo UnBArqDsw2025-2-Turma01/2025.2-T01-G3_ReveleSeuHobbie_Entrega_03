@@ -22,5 +22,5 @@
     - [3.5. Iniciativas Extras - Padrões de Projeto](/PadroesDeProjeto/3.5.IniciativasExtras.md)
       - [3.5.1. Cronograma](/PadroesDeProjeto/planejamento/3.5.1.cronograma.md)
         - [3.5.1.1 Cronograma Planejado](/PadroesDeProjeto/planejamento/3.5.1.1CronogramaPlanejado.md)
-        - [3.5.1.2 Cronograma Executado](/PadroesDeProjeto/planejamento/3.5.1.1CronogramaExecutado.md)
+        - [3.5.1.2 Cronograma Executado](/PadroesDeProjeto/planejamento/3.5.1.2CronogramaExecutado.md)
       - [3.5.2. Sprints](/PadroesDeProjeto/Sprints%20Entrega%203.md)
