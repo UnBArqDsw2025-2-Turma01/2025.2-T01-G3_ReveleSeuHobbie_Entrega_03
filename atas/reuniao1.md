@@ -88,6 +88,6 @@ Autor: [Leonardo Barcellos](https://github.com/oyLeonardo)
 
 | Versão |                             Descrição                             |                        Autor                        |    Data    |                     Revisor                    | Data de revisão |                        Comentário do revisor                       |
 | :----: | :---------------------------------------------------------------: | :-------------------------------------------------: | :--------: | :--------------------------------------------: | :-------------: | :----------------------------------------------------------------: |
-|   1.0  | Criação da ata da sexta reunião, referente à divisão da entrega 3 | [Leonardo Barcellos](https://github.com/oyLeonardo) | 23/10/2025 | 
+|   1.0  | Criação da ata da sexta reunião, referente à divisão da entrega 3 | [Leonardo Barcellos](https://github.com/oyLeonardo) | 23/10/2025 | [Yzabella Pimenta](https://github.com/redjsun) | 23/10/2025 | Revisão realizada e aprovada. |
 
 ---
