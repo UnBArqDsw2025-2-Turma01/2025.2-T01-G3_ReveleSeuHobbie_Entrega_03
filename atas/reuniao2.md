@@ -8,7 +8,7 @@
 
 | Data       | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local           | Redator                                             | Revisor                                             |
 | ---------- | ----------------------- | ------------------------ | ------------------------ | ------------------------- | --------------- | --------------------------------------------------- | --------------------------------------------------- |
-| 13/10/2025 | 21:00                   | 21:02                    | 21:30                    | 21:25                     | Microsoft Teams | [Leonardo Barcellos](https://github.com/oyLeonardo) | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |
+| 13/10/2024 | 21:00                   | 21:02                    | 21:30                    | 21:25                     | Microsoft Teams | [Leonardo Barcellos](https://github.com/oyLeonardo) | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |
 
 Autor: [Leonardo Barcellos](https://github.com/oyLeonardo)
 
