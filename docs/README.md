@@ -32,11 +32,11 @@ Segue imagens de algumas das modelagens geradas pelo grupo durante a aplicação
 
 ### Padrão de Projeto Estrutural
 
-ADICIONAR 
+![Modelagem do Padrão de Projeto Estrutural](/docsAnaYzaLeo/assets/diagrama_decorator.png) 
 
 ### Padrão de Projeto Comportamental
 
-ADICIONAR
+![Modelagem do Padrão de Projeto Comportamental](/docsAnaYzaLeo/assets/diagrama_template_method.png)
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
