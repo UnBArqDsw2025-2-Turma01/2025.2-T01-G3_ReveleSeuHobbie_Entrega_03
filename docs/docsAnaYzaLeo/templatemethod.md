@@ -41,7 +41,7 @@ A aplicação desse padrão permitiu estabelecer um fluxo comum de ações nas f
 A seguir, é possível visualizar a foto da modelagem gerada:
 <p align="center">Imagem  1 - Modelagem do GoF Template Method</p>
 
-<img src="assets/diagrama_template_method.png" align="center" width="600" height="400" loading="lazy">
+![Diagrama Template Method](/assets/diagrama_template_method.png)
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a>, <a href="https://github.com/oyLeonardo">Leonardo Barcelos</a> e <a href="https://github.com/redjsun">Yzabella Miranda</a> </p>
 
