@@ -34,7 +34,7 @@ Como consta na fonte Refactoring Guru(2023), o Builder é composto por:
 A seguir, é possível visualizar a foto da modelagem gerada:
 <p align="center">Imagem  1 - Modelagem do GoF Builder</p>
 
-<img src="../assets/diagrama_builder.png" align="center" width="600" height="400" loading="lazy">
+![Modelagem](/assets/diagrama_builder.png)
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a>, <a href="https://github.com/oyLeonardo">Leonardo Barcelos</a> e <a href="https://github.com/redjsun">Yzabella Miranda</a> </p>
 
