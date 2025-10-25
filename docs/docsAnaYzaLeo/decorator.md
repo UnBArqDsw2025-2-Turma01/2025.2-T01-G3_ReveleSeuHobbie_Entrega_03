@@ -28,7 +28,7 @@ Com a decisão final do diagrama, abaixo é possível visualizá-lo:
 
 <p align="center">Imagem  1 - Modelagem do GoF Builder</p>
 
-![Diagrama decorator](/assets//diagrama_decorator.png)
+![Diagrama decorator](/assets/diagrama_decorator.png)
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a>, <a href="https://github.com/oyLeonardo">Leonardo Barcelos</a> e <a href="https://github.com/redjsun">Yzabella Miranda</a> </p>
 
