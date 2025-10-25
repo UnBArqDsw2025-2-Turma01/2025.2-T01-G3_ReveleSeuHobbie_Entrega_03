@@ -4,7 +4,7 @@ Este documento tem como finalidade registrar as participações e contribuiçõe
 
 # Métodologia
 
-A elaboração deste documento seguiu uma metodologia individualista, na qual uma integrante [Yzabella Pimenta](https://github.com/redjsun) registrou a participação e a avaliação de todos. Todo o processo de registro e avaliação foi feito conforme um modelo predefinido, garantindo a consistência e a transparência das contribuições. Essa abordagem permitiu uma análise clara e completa do desempenho individual no trabalho em grupo.
+A elaboração deste documento seguiu uma metodologia individualista, na qual uma integrante [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) registrou a participação e a avaliação de todos a partir do modelo criado pela estudante [Yzabella Miranda](https://github.com/Ana-Luiza-SC). Todo o processo de registro e avaliação foi feito conforme um modelo predefinido, garantindo a consistência e a transparência das contribuições. Essa abordagem permitiu uma análise clara e completa do desempenho individual no trabalho em grupo.
 
 ## Padrões de Projeto Criacionais (Foco_1)
 
@@ -13,16 +13,16 @@ A elaboração deste documento seguiu uma metodologia individualista, na qual um
 
 | Nome do Integrante | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |--------|-----------|---|-----|
-| [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.1. Builder](/docsAnaYzaLeo/builder.md) (Lá estão os links para as gravações das reuniões) |
-| [Arthur Augusto Rezende da Paixão](https://github.com/arthur-augusto) |-  | - | - |
-| [Gabriel Flores](https://github.com/Gabrielfcoelho) | - | - | - |
-| [Ígor Veras Daniel](https://github.com/igorvdaniel) | - | - | - |
-| [Leonardo Barcellos](https://github.com/oyLeonardo) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.1. Builder](/docsAnaYzaLeo/builder.md) (Lá estão os links para as gravações das reuniões) |
-| [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - | - |
-| [Natan Almeida](https://github.com/natanalmeida03) | - | - | - |
-| [Paulo Henrique L. Dantas](https://github.com/Nanashii76) | - | - | - |
-| [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) | - | - | - |
-| [Yzabella Pimenta](https://github.com/redjsun) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.1. Builder](/docsAnaYzaLeo/builder.md) (Lá estão os links para as gravações das reuniões) |
+| [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.3. Factory](/docsNatanArthurPauloRuan/factory.md)  |
+| [Arthur Augusto Rezende da Paixão](https://github.com/arthur-augusto) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.1. Builder](/docsAnaYzaLeo/builder.md)  |
+| [Gabriel Flores](https://github.com/Gabrielfcoelho) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.2. Abstract Factory](/docsIgorFloresMatheus/abstractFactory.md)  |
+| [Ígor Veras Daniel](https://github.com/igorvdaniel) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.2. Abstract Factory](/docsIgorFloresMatheus/abstractFactory.md)  |
+| [Leonardo Barcellos](https://github.com/oyLeonardo) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.1. Builder](/docsAnaYzaLeo/builder.md)  |
+| [Matheus de Alcântara](https://github.com/matheusdealcantara) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.2. Abstract Factory](/docsIgorFloresMatheus/abstractFactory.md)  |
+| [Natan Almeida](https://github.com/natanalmeida03) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.3. Factory](/docsNatanArthurPauloRuan/factory.md)  |
+| [Paulo Henrique L. Dantas](https://github.com/Nanashii76) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.3. Factory](/docsNatanArthurPauloRuan/factory.md)  |
+| [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.3. Factory](/docsNatanArthurPauloRuan/factory.md)  |
+| [Yzabella Pimenta](https://github.com/redjsun) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.1.1. Builder](/docsAnaYzaLeo/builder.md)  |
 
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> </p>
@@ -34,16 +34,16 @@ A elaboração deste documento seguiu uma metodologia individualista, na qual um
 
 | Nome do Integrante | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |--------|-----------|---|-----|
-| [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | - | - | - |
-| [Arthur Augusto Rezende da Paixão](https://github.com/arthur-augusto) |-  | - | - |
+| [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.2.2. Decorator](/docsAnaYzaLeo/decorator.md)  |
+| [Arthur Augusto Rezende da Paixão](https://github.com/arthur-augusto) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.2.3. Facade](/docsNatanArthurPauloRuan/facade.md)  |
 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | Participou do estudo, modelagem e implementação do padrão de projeto Adapter | Excelente | [3.2.1. Adapter](/docsIgorFloresMatheus/Adapter.md) |
 | [Ígor Veras Daniel](https://github.com/igorvdaniel) | Participou do estudo, modelagem e implementação do padrão de projeto Adapter | Excelente | [3.2.1. Adapter](/docsIgorFloresMatheus/Adapter.md) |
-| [Leonardo Barcellos](https://github.com/oyLeonardo) | - | - | - |
+| [Leonardo Barcellos](https://github.com/oyLeonardo) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.2.2. Decorator](/docsAnaYzaLeo/decorator.md)  |
 | [Matheus de Alcântara](https://github.com/matheusdealcantara) | Participou do estudo, modelagem e implementação do padrão de projeto Adapter | Excelente | [3.2.1. Adapter](/docsIgorFloresMatheus/Adapter.md) |
-| [Natan Almeida](https://github.com/natanalmeida03) | - | - | - |
-| [Paulo Henrique L. Dantas](https://github.com/Nanashii76) | - | - | - |
-| [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) | - | - | - |
-| [Yzabella Pimenta](https://github.com/redjsun) | - | - | - |
+| [Natan Almeida](https://github.com/natanalmeida03) |  Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.2.3. Facade](/docsNatanArthurPauloRuan/facade.md)  |
+| [Paulo Henrique L. Dantas](https://github.com/Nanashii76) |  Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.2.3. Facade](/docsNatanArthurPauloRuan/facade.md)  |
+| [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) |  Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.2.3. Facade](/docsNatanArthurPauloRuan/facade.md)  |
+| [Yzabella Pimenta](https://github.com/redjsun) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.2.2. Decorator](/docsAnaYzaLeo/decorator.md)  |
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> </p>
 
@@ -53,16 +53,16 @@ A elaboração deste documento seguiu uma metodologia individualista, na qual um
 
 | Nome do Integrante | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |--------|-----------|---|-----|
-| [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | - | - | - |
-| [Arthur Augusto Rezende da Paixão](https://github.com/arthur-augusto) |-  | - | - |
-| [Gabriel Flores](https://github.com/Gabrielfcoelho) | - | - | - |
-| [Ígor Veras Daniel](https://github.com/igorvdaniel) | - | - | - |
-| [Leonardo Barcellos](https://github.com/oyLeonardo) | - | - | - |
-| [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - | - |
-| [Natan Almeida](https://github.com/natanalmeida03) | - | - | - |
-| [Paulo Henrique L. Dantas](https://github.com/Nanashii76) | - | - | - |
-| [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) | - | - | - |
-| [Yzabella Pimenta](https://github.com/redjsun) | - | - | - |
+| [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.1. Template Method](/docsAnaYzaLeo/templatemethod.md)  |
+| [Arthur Augusto Rezende da Paixão](https://github.com/arthur-augusto) |  Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.3 Strategy](/docsNatanArthurPauloRuan/strategy.md) |
+| [Gabriel Flores](https://github.com/Gabrielfcoelho) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.2. Iterator](/docsIgorFloresMatheus/iterator.md) |
+| [Ígor Veras Daniel](https://github.com/igorvdaniel) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.2. Iterator](/docsIgorFloresMatheus/iterator.md) |
+| [Leonardo Barcellos](https://github.com/oyLeonardo) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.1. Template Method](/docsAnaYzaLeo/templatemethod.md)  |
+| [Matheus de Alcântara](https://github.com/matheusdealcantara) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.2. Iterator](/docsIgorFloresMatheus/iterator.md) |
+| [Natan Almeida](https://github.com/natanalmeida03) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.3 Strategy](/docsNatanArthurPauloRuan/strategy.md) |
+| [Paulo Henrique L. Dantas](https://github.com/Nanashii76) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.3 Strategy](/docsNatanArthurPauloRuan/strategy.md) |
+| [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.3 Strategy](/docsNatanArthurPauloRuan/strategy.md) |
+| [Yzabella Pimenta](https://github.com/redjsun) | Participou do estudo, modelagem e implementação do padrão de projeto Builder | Excelente | [3.3.1. Template Method](/docsAnaYzaLeo/templatemethod.md)  |
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> </p>
 
@@ -74,15 +74,9 @@ A elaboração deste documento seguiu uma metodologia individualista, na qual um
 | Nome do Integrante | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |--------|-----------|---|-----|
 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | Construção e preencher as participações | Boa | [Participações](/participacoes/participacoes.md) |
-| [Arthur Augusto Rezende da Paixão](https://github.com/arthur-augusto) |-  | - | - |
-| [Gabriel Flores](https://github.com/Gabrielfcoelho) | - | - | - |
-| [Ígor Veras Daniel](https://github.com/igorvdaniel) | - | - | - |
-| [Leonardo Barcellos](https://github.com/oyLeonardo) | - | - | - |
-| [Matheus de Alcântara](https://github.com/matheusdealcantara) | - | - | - |
-| [Natan Almeida](https://github.com/natanalmeida03) | - | - | - |
-| [Paulo Henrique L. Dantas](https://github.com/Nanashii76) | - | - | - |
-| [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) | - | - | - |
-| [Yzabella Pimenta](https://github.com/redjsun) | - | - | - |
+| [Gabriel Flores](https://github.com/Gabrielfcoelho) |  Criação das sprints para a entrega 3| Excelente | [3.5.2. Sprints](/PadroesDeProjeto/Sprints%20Entrega%203.md) |
+| [Matheus de Alcântara](https://github.com/matheusdealcantara) | Criação das sprints para a entrega 3| Excelente | [3.5.2. Sprints](/PadroesDeProjeto/Sprints%20Entrega%203.md) |
+| [Yzabella Pimenta](https://github.com/redjsun) | criação do cronograma Planejado e executado | Excelente | [3.5.1.1 Cronograma Planejado](/PadroesDeProjeto/planejamento/3.5.1.1CronogramaPlanejado.md) e [3.5.1.2 Cronograma Executado](/PadroesDeProjeto/planejamento/3.5.1.2CronogramaExecutado.md) |
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> </p>
 
