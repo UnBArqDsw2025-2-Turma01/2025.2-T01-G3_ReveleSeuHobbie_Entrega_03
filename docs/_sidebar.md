@@ -21,3 +21,8 @@
         - [3.5.1.1 Cronograma Planejado](./PadroesDeProjeto/planejamento/3.5.1.1CronogramaPlanejado.md)
         - [3.5.1.2 Cronograma Executado](./PadroesDeProjeto/planejamento/3.5.1.2CronogramaExecutado.md)
       - [3.5.2. Sprints](./PadroesDeProjeto/Sprints%20Entrega%203.md)
+      - [3.5.3. Ata](/atas/padraoatas.md)
+        - [3.5.3.1 Ata Reunião 1](/atas/reuniao1.md)
+        - [3.5.3.2 Ata Reunião 2](/atas/reuniao2.md)
+        - [3.5.3.3 Ata Reunião 3](/atas/reuniao3.md)
+        - [3.5.3.4 Ata Reunião 4](/atas/reuniao4.md)
