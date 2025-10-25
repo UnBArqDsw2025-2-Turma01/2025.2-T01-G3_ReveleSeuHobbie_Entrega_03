@@ -26,7 +26,7 @@ Além das reuniões via Teams, também tivemos debates da estruturação por mei
 ## Modelagem
 Com a decisão final do diagrama, abaixo é possível visualizá-lo:
 
-<p align="center">Imagem  1 - Modelagem do GoF Builder</p>
+<p align="center">Imagem  1 - Modelagem do GoF Decorator</p>
 
 ![Diagrama decorator](/assets/diagrama_decorator.png)
 
