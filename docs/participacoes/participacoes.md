@@ -77,6 +77,8 @@ A elaboração deste documento seguiu uma metodologia individualista, na qual um
 | [Gabriel Flores](https://github.com/Gabrielfcoelho) |  Criação das sprints para a entrega 3| Excelente | [3.5.2. Sprints](/PadroesDeProjeto/Sprints%20Entrega%203.md) |
 | [Matheus de Alcântara](https://github.com/matheusdealcantara) | Criação das sprints para a entrega 3| Excelente | [3.5.2. Sprints](/PadroesDeProjeto/Sprints%20Entrega%203.md) |
 | [Yzabella Pimenta](https://github.com/redjsun) | criação do cronograma Planejado e executado | Excelente | [3.5.1.1 Cronograma Planejado](/PadroesDeProjeto/planejamento/3.5.1.1CronogramaPlanejado.md) e [3.5.1.2 Cronograma Executado](/PadroesDeProjeto/planejamento/3.5.1.2CronogramaExecutado.md) |
+| [Leonardo Barcellos](https://github.com/oyLeonardo) | criação da ata padrão e atas 1 e 2 | Excelente | [3.5.3.1 Ata Reunião 1](./atas/reuniao1.md) e [3.5.3.2 Ata Reunião 2](./atas/reuniao2.md) |
+| [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) | criação das atas 3 e 4 | Excelente | [3.5.3.3 Ata Reunião 3](./atas/reuniao3.md) e [3.5.3.4 Ata Reunião 4](./atas/reuniao4.md) |
 
 <p align = "center">Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a> </p>
 
