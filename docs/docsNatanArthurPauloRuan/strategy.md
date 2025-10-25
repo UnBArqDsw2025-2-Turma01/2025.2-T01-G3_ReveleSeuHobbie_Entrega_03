@@ -22,7 +22,7 @@ A seguir, é possível visualizar a modelagem gerada:
 
 <p align="center">Modelagem do Gof comportamental Strategy</p>
 
-![strategy modelagem](/assets/strategy.png)
+![strategy modelagem](/assets/Strategy.png)
 
 ## Implementação
 
